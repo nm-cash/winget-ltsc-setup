@@ -39,7 +39,7 @@ Este script realizaba lo siguiente:
 2. Buscaba e instalaba Microsoft.UI.Xaml 2.8, dependencias necesarias.
 3. Buscaba e instalaba `winget` con su licencia `*_License1.xml`.
 
-Intenté re-ajustar el script para que siempre buscase la paquetería más reciente. En especial porque `winget` y `xaml` habían quedado "congelados" en el tiempo en que se escribió el script original, hacia mitad de 2024. La manera de funcionar era que buscaba enlaces web específicos donde estaban las librerías y dependencias almacenadas. Al estar escrito a mitad de 2024, hubo muchas versiones posteriores de `winget` y `xaml` publicadas desde entonces, mientras que los enlaces de referencia scripteados se quedaron iguales. Esto resulta en la instalación de versiones obsoletas de los paquetes, que tienen que ser actualizadas por sistema y usando `winget upgrade --all`.
+Intenté re-ajustar el script para que siempre buscase la paquetería más reciente. En especial porque `winget` y `xaml` habían quedado "congelados" en el tiempo en que se escribió el script original, hacia mitad de 2024. La manera de funcionar era que buscaba enlaces web específicos donde estaban las librerías y dependencias almacenadas. Desde la fecha en la que fue escrito hubieron muchas versiones posteriores de `winget` y `xaml` publicadas, y los enlaces de referencia scripteados originalmente se quedaron iguales. Esto resulta en la instalación de versiones obsoletas de los paquetes, que luego tienen que ser actualizadas por sistema y usando `winget upgrade --all`.
 
 ```powershell
 # 1. Habilitar la ejecución de scripts en la PowerShell.
