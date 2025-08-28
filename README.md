@@ -182,4 +182,4 @@ Finalmente acabé por descartarlo:
 
 Microsoft declaró que los enlaces de descarga para VC Libs que los scripts usan están deprecados. Y que estas librerías van a ser conseguibles para ese entonces exclusivamente como componentes empaquetados con aplicaciones de la tienda, como Visual Code o el mismo instalador de paquetes. En el futuro, va a ser necesario pasar por la tienda sí o sí. Más vale hacerlo temprano.
 
-En caso de querer intentar hacer pruebas con este script,
+En caso de querer intentar hacer pruebas con este script, se puede usar su RAW como enlace a invocar de la misma manera que se demuestra como ejemplo con el script original, reemplazando el enlace.
