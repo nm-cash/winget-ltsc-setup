@@ -1,7 +1,3 @@
-# winget-ltsc-setup
-Una bitácora sobre cómo habilitar `winget` en versiones LTSC de Windows (Evaluación y Full).
-
------
 ## Windows 10 LTSC - Configurándole `winget`
 
 Las ediciones LTSC de Windows 10 y 11 son una solución perfecta para aquellas personas que buscan un sistema minimalista "out of the box". Ni bien desplegados, **vienen prácticamente sin software.** Son versiones de Windows que invierten esa relación típica entre el "usuario empoderado" (o "power user") y el sistema. Donde clásicamente luego de instalar, el usuario se disponía a comenzar a dar una larga serie de clicks y tipear comandos para desinstalar todo ese *bloatware* que el sistema sirve adjuntadas a su propio paquete.
