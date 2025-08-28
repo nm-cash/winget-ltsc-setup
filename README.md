@@ -176,6 +176,6 @@ Finalmente acabé por descartarlo:
 - Porque era mucho más rápido y fluido pasar por la tienda para llegar a `winget` que seguir trastabillando con un script.
 - El acercamiento por enlaces eventualmente se va a romper. La manera "future-proof" de hacer esto **_es por medio de la tienda._**
 
-Microsoft declaró que los enlaces de descarga para VC Libs que los scripts usan están deprecados. Y que estas librerías van a ser conseguibles para ese entonces exclusivamente como componentes empaquetados con aplicaciones de la tienda, como Visual Code o el mismo instalador de paquetes. En el futuro, va a ser necesario pasar por la tienda sí o sí. Más vale hacerlo temprano.
+Microsoft declaró que los enlaces de descarga para VC Libs que los scripts usan están deprecados. Y que estas librerías van a ser conseguibles para ese entonces exclusivamente como componentes empaquetados con aplicaciones de la tienda, como Visual Code o el mismo instalador de paquetes. En el futuro, va a ser necesario pasar por la tienda sí o sí. Más vale hacerlo temprano. Además siendo honesto, no sabía que se podía hacer tan fácil. De haberlo sabido no me habría molestado.
 
 En caso de querer intentar hacer pruebas con este script, se puede usar su RAW como enlace a invocar de la misma manera que se demuestra como ejemplo con el script original, reemplazando el enlace.
