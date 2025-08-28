@@ -14,7 +14,7 @@ Las versiones LTSC vienen casi vacías, lo cual obliga al usuario a realizar una
 Cualquiera de los tres ofrece lo mismo: argumentos por línea de comandos mediante los cuales monitorear de entre una larga variedad de programas instalables, como navegadores, editores de texto, gestores de archivos, etc... 
 - Buscar estos programas por palabras clave, por ejemplo tipear `winget search "browser"`. Y obtener una larga lista de navegadores web, o cualquier programa que en su descripción contenga el string:"browser", compatibles con nuestro sistema de entre los cuales elegir.
 - Podemos buscar información sobre la proveniencia de estos programas, por ejemplo tipeando `winget info Programa.X`, para obtener datos como el repositorio o fuente de origen para su descarga, autor/es del programa, número de versión, etc...
-- En general nos ofrece un control granular y muy flexible sobre los programas que tenemos disponibles y que nos interesaría incorporar a nuestros sistema. Por eso es interesante contar con esta clase de herramientas incorporadas.
+- En general nos ofrece un control granular y muy flexible sobre los programas que tenemos disponibles y que nos interesaría incorporar a nuestro sistema. Por eso es interesante contar con esta clase de herramientas incorporadas.
 
 `winget` no viene por defecto en LTSC, pero es una herramienta indispensable para un power-user que quiera poblar su despliegue windows minimalista con herramientas seleccionadas a medida. Para lograr esta cheff-kiss edition de Windows, tenemos que habilitarlo.
 
