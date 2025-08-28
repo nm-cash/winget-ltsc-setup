@@ -6,7 +6,7 @@ Las versiones LTSC vienen casi vacías, lo cual obliga al usuario a realizar una
 1. Servir un sistema virgen, sin programas, al cual el usuario deba integrar selectivamente dichos programas a medida que los vaya necesitando, **convierte al sistema en uno más _personalizable._**
 2. Eliminando de la ecuación la necesidad de des-instalar software innecesario, se hace del despliegue de este sistema algo mucho más prolijo. **Mientras que es sencillo integrar nuevos programas, librerías y dependencias para un sistema, no es tan fácil determinar si el trabajo de _de-bloatear_ ese sistema fue o no fue efectuado correcta y completamente.**
 3. Los sistemas que vienen con lo mínimo indispensables por defecto son más livianos, y su instalación inicial es más rápida (obviamente descontando el tiempo post-instalación donde se configura el sistema para dejarlo listo).
------
+
 ## ¿Qué es, y cómo habilitar `winget` en Windows LTSC?
 [`winget`](https://github.com/microsoft/winget-cli) es el gestor de paquetes via terminal que se utiliza en los sistemas Windows. De manera similar a como lo hace un gestor de paquetes para Sistemas UNIX, con `winget` podemos utilizar la terminal PowerShell para escribir comandos de terminal que busquen programas determinados, nos desplieguen datos diversos acerca de estos programas, y obviamente instalar estos programas en nuestro sistema. 
 
